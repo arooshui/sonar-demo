@@ -41,7 +41,7 @@ test();
 // }
 
 function student1() {
-  const name = "Ajay";
+  const name = "Ak";
   const age = 22;
   const city = "Hyderabad";
   const college = "ABC";
@@ -65,7 +65,7 @@ function student1() {
 }
 
 function student2() {
-  const name = "Ajay";
+  const name = "Ak";
   const age = 22;
   const city = "Hyderabad";
   const college = "ABC";
